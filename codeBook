@@ -1,0 +1,14 @@
+DATA DICTIONARY - Data output 
+Subject_ID 
+ Subject ID
+ 1 to 30 for the subject who performed the test
+
+Activity_Label
+ The activity the subject was performing for the test.
+ 1 to 6 different values
+ 
+Variable
+ The mean and standar deviation mesaurements of the tests
+ 
+Mean_Value
+  The mean value for each subject, activty and variable used in the test.
